@@ -1,9 +1,9 @@
 ## Repo for the frontend 
 ### Using React
 
-### Pre-requisites
+### Prerequisites
 * NodeJs 
-#### Installation
+#### Getting Started
 * npm i -g create-react-app
 * create-react-app "NAME"
 
