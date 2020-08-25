@@ -3,5 +3,7 @@
 
 ### Pre-requisites
 * NodeJs 
-#### Commands
+#### Installation
 * npm i -g create-react-app
+* create-react-app "NAME"
+
