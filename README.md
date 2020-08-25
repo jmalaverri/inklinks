@@ -1,2 +1,2 @@
-### Repo for the frontend 
-## React & bootstrap
+## Repo for the frontend 
+### Using React
